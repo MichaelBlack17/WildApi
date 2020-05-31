@@ -1,0 +1,8 @@
+
+pkg/
+
+.idea/
+
+src/sofia.go
+
+src/temp.go

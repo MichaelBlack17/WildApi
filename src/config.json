@@ -1,0 +1,5 @@
+{
+  "ServerPort": ":8080",
+  "ConnectionString": "user=postgres password=123654 dbname=WildDB sslmode=disable",
+  "SqlDriverName":"postgres"
+}
